@@ -1,3 +1,9 @@
-# Azure MLOps (v2) solution accelerator
+# GlobalAI 2023 - Málaga
 
-[Main README file](https://github.com/Azure/mlops-v2/blob/main/README.md)
+## Taxi fare regression
+
+MLOps (Azure Machine Learning and Github actions) template project to train and deploy a taxi fare prediction model using a RandomForest Regressor.
+
+![taxi](docs/taxi.jpg)
+
+
